@@ -20,7 +20,7 @@ Download or clone this repository, then install the skill through your Codex or 
 
 ## Example prompts
 
-- “Use the SaaS Business Advisor to package a field-service scheduling app for independent contractors.”
+- “Use the App to Business Advisor to package a field-service scheduling app for independent contractors.”
 - “Help me structure a paid design-partner pilot for a compliance workflow tool.”
 - “Give me a defensible pricing experiment for a logistics dashboard with two early customers.”
 - “Draft a discovery plan before I quote an annual contract for a healthcare operations product.”
