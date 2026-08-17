@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Business Advisor"
+  short_description: "Evidence-led vertical SaaS commercialization"
+  default_prompt: "Use $saas-business-advisor to advise on pricing, a design-partner deal, or a commercial proposal."
